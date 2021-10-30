@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @fardeenalam
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python programming.
-- 💞️ I’m looking to collaborate on some projects to obtain fluency in writing code in python.
-- 📫 How to reach me alamfardin09@gmail.com
+Hi, I am Fardeen Alam.
+Currently learning android development with java.
+Doing my B.Tech from Ajay Kumar Garg Engineering college (2019-2023).
 
 <!---
 fardeenalam/fardeenalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
