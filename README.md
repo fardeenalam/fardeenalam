@@ -1,6 +1,5 @@
 Hi, I am Fardeen Alam.
-Currently learning android development with java.
-Doing my B.Tech from Ajay Kumar Garg Engineering college (2019-2023).
+I am a skilled Frontend Developer specializing in React.js, proficient in JavaScript, CSS, and HTML. Currently, I am expanding my expertise to backend development using Node.js, with the aim of mastering the complete MERN stack.
 
 <!---
 fardeenalam/fardeenalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
